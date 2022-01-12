@@ -1,1 +1,1 @@
-# Coding Project Template
+# coding-project-template
